@@ -1,0 +1,48 @@
+Nutzungsbedingungen (Terms of Service) für den Discord Bot
+1. Allgemeines
+
+Dieser Discord Bot („Bot“) wird als kostenloser Service zur Verfügung gestellt. Durch die Nutzung des Bots erklärst du dich mit diesen Nutzungsbedingungen einverstanden.
+
+2. Funktionen
+
+Der Bot bietet u. a. folgende Funktionen:
+
+Twitch-Stream-Announcements (Live-Benachrichtigungen in einem festgelegten Kanal)
+
+Automatische Willkommensnachrichten für neue Mitglieder
+
+Konfigurierbare Präfixe und Einstellungen pro Server
+
+Abfrage des Stream-Status eines festgelegten Twitch-Kanals
+
+Die Funktionen können sich jederzeit ändern oder erweitert/entfernt werden.
+
+3. Nutzungsvoraussetzungen
+
+Der Bot darf nur in Übereinstimmung mit den Discord Nutzungsbedingungen
+ und den Community-Richtlinien
+ verwendet werden.
+
+Eine missbräuchliche Verwendung (z. B. Spam, Belästigung, Manipulation von Twitch-APIs) ist untersagt.
+
+Der Server-Administrator ist verantwortlich für die Konfiguration und den Umgang mit den Ausgaben des Bots.
+
+4. Haftungsausschluss
+
+Der Bot wird „wie besehen“ bereitgestellt, ohne Garantie auf Verfügbarkeit, Richtigkeit oder Fehlerfreiheit.
+
+Ich übernehme keine Haftung für Schäden, die durch Nutzung oder Nichtverfügbarkeit des Bots entstehen.
+
+Änderungen oder Abschaltung des Bots sind jederzeit ohne Ankündigung möglich.
+
+5. Datenschutz
+
+Der Bot speichert serverbezogene Konfigurationen (z. B. Prefix, Kanal-IDs, Rollen-IDs, Twitch-Streamer-Namen).
+
+Es werden keine persönlichen Daten von Nutzern dauerhaft gespeichert oder an Dritte weitergegeben.
+
+Log-Daten (Fehlermeldungen, Aktivitäten) können temporär verarbeitet werden, um Stabilität und Funktion sicherzustellen.
+
+6. Änderungen der Nutzungsbedingungen
+
+Diese Nutzungsbedingungen können jederzeit geändert werden. Änderungen treten mit Veröffentlichung in Kraft. Die weitere Nutzung des Bots gilt als Zustimmung zur jeweils aktuellen Version.
