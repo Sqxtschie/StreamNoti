@@ -1,0 +1,51 @@
+1. Verantwortlicher
+
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit diesem Bot ist der Betreiber des Bots („wir“, „uns“).
+Bei Fragen zur Datenverarbeitung kannst du dich jederzeit an den Betreiber wenden.
+
+2. Welche Daten werden verarbeitet?
+
+Der Bot verarbeitet und speichert ausschließlich serverbezogene Daten, um seine Funktionen bereitzustellen. Dazu gehören:
+
+Server-ID (Guild ID)
+
+Konfigurationsdaten wie Präfix, Kanal-IDs (z. B. für Ankündigungen oder Willkommensnachrichten), Rollen-IDs und hinterlegte Twitch-Nutzernamen
+
+Temporäre Status- und Protokolldaten (z. B. Twitch-API-Antworten, Fehler-Logs)
+
+Es werden keine persönlichen Daten von Nutzern (z. B. Nachrichteninhalte, Profilinformationen) dauerhaft gespeichert oder an Dritte weitergegeben.
+
+3. Zweck der Datenverarbeitung
+
+Die gespeicherten Daten dienen ausschließlich folgenden Zwecken:
+
+Bereitstellung der Bot-Funktionen (Ankündigungen, Willkommensnachrichten, Statusabfragen)
+
+Sicherstellung der Stabilität und Fehlerbehebung
+
+4. Speicherdauer
+
+Konfigurationsdaten werden so lange gespeichert, wie der Bot auf einem Discord-Server aktiv ist.
+
+Bei Entfernung des Bots von einem Server werden die zugehörigen Daten automatisch gelöscht.
+
+Temporäre Log- oder Fehlerdaten können kurzzeitig verarbeitet werden, werden aber nicht dauerhaft gespeichert.
+
+5. Weitergabe von Daten
+
+Es erfolgt keine Weitergabe von Daten an Dritte.
+
+Der Bot nutzt die offizielle Twitch-API ausschließlich zur Abfrage von Live-Informationen. Dabei werden lediglich öffentlich zugängliche Daten des angegebenen Twitch-Kanals verarbeitet.
+
+6. Rechte der Nutzer
+
+Da der Bot keine personenbezogenen Daten im Sinne der DSGVO speichert, ergeben sich keine direkten Auskunfts- oder Löschungsansprüche für einzelne Discord-Nutzer.
+Server-Administratoren können jedoch jederzeit:
+
+den Bot vom Server entfernen (dadurch werden alle gespeicherten Daten zu diesem Server gelöscht).
+
+Konfigurationen innerhalb des Servers ändern oder zurücksetzen.
+
+7. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann bei Bedarf angepasst werden. Mit der weiteren Nutzung des Bots gilt die jeweils aktuelle Version.
